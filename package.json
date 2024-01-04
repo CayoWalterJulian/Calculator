@@ -1,0 +1,18 @@
+{
+  "name": "calculadora-propia",
+  "version": "1.0.0",
+  "description": "Es una simple calculadora, que tenga funcionalidades validas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "ES"
+  ],
+  "author": "Cayo Walter Julian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
